@@ -16,7 +16,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const playlist = [
   {
     title: "Вертикальне відео 1",
-    src: "https://cdn.discordapp.com/attachments/1549376815435485315/1564734336018944251/video_2026-10-27_22-14-59.mp4?ex=6ae5a3a9&is=6ae45229&hm=e43a82444b5914da2f3b5cdd00796be4cfdc845ca3023162925248ea5875a94c&"
+    src: "video_2026-10-27_22-14-59 (1).mp4"
   },
   {
     title: "Вертикальне відео 2",
