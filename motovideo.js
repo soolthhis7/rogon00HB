@@ -20,23 +20,23 @@ const playlist = [
   },
   {
     title: "Вертикальне відео 2",
-    src: "https://cdn.discordapp.com/attachments/1549376815435485315/1564734336777982102/video_2026-10-27_22-14-56.mp4?ex=6ae257e9&is=6ae10669&hm=55602a841f0b8b3f7618e48345d902edff7de0787a5df9d5757a9c759876d9e4&"
+    src: "video_2026-10-27_22-14-56 (1).mp4"
   },
   {
     title: "Вертикальне відео 3",
-    src: "https://cdn.discordapp.com/attachments/1549376815435485315/1564734337520369764/video_2026-10-27_22-14-53.mp4?ex=6ae257e9&is=6ae10669&hm=282ed25691153a5a2f27d154a16fba2f1c4c485a4413a8936829d3bbe6dfe62e&"
+    src: "video_2026-10-27_22-14-53 (1).mp4"
   },
   {
     title: "Вертикальне відео 4",
-    src: "https://cdn.discordapp.com/attachments/1549376815435485315/1564734338099187742/video_2026-10-27_22-14-50.mp4?ex=6ae257e9&is=6ae10669&hm=8fd22d3796e4a26c2db3045cd067cbd75b53b19738f67d506ac8a270cce31932&"
+    src: "video_2026-10-27_22-14-50 (1).mp4"
   },
   {
     title: "Вертикальне відео 5",
-    src: "https://cdn.discordapp.com/attachments/1549376815435485315/1564734339080790076/video_2026-10-27_22-14-47.mp4?ex=6ae257e9&is=6ae10669&hm=eb87939f98b7683cf7a2c22f6a8e4d59b3e71e992c175388a374b12d0e9afcdb&"
+    src: "video_2026-10-27_22-14-47 (1).mp4"
   },
   {
     title: "Вертикальне відео 6",
-    src: "https://cdn.discordapp.com/attachments/1549376815435485315/1564734340011921539/video_2026-10-27_22-14-43.mp4?ex=6ae257ea&is=6ae1066a&hm=f343740063a4592e8a1cdc9270dc35568e9e84c916e6a6fd6f910f0d9eeaf14f&"
+    src: "video_2026-10-27_22-14-43 (1).mp4"
   },
 ];
 
